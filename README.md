@@ -2,9 +2,9 @@
 
 ## The current build
 
-The recommended model is **[MarbleRun_Vortex.stl](MarbleRun_Vortex.stl)**. It is a single, centered marble run with a wide starting funnel, a short bumpy section, three open turns, a downhill switchback, and a cup at the end. The track stays open instead of curling into a tight spiral.
+The recommended model is **(MarbleRun_Vortex-compressed.glb)**. 
 
-The STL is already built and ready to import into a slicer or CAD program; you do not need to run the generator script.
+The STL was too big so I had to compress it using one of those online sites. The glb file is ready to be put into a slicer or CAD program.
 
 ## Size and marble fit
 
